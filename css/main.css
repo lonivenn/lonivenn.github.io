@@ -1,3 +1,9 @@
+h1 {
+ font: open sans; 
+}
+p {
+ font: open sans; 
+}
 img {
   max-width: 300px;
   height: auto;
